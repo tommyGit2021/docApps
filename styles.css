@@ -7,9 +7,9 @@ body {
 
 .container {
     width: 80%;
-    margin: 20px auto;
+    margin: 0 auto;
     background-color: #fff;
-    padding: 20px;
+    padding: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
 }
@@ -17,6 +17,7 @@ body {
 header {
     background-color: #00466a;
     color: #fff;
+    font-size: 28px;
     padding: 20px;
     display: flex;
     align-items: center;
