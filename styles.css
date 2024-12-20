@@ -75,7 +75,7 @@ table th, table td {
 table th {
     background-color: #00466a;
     color: #fff;
-    width: 200px; /* Ajusta este valor según tus necesidades */
+    width: 150px; /* Ajusta este valor según tus necesidades */
     word-wrap: break-word; /* Permite que el texto se ajuste dentro del ancho máximo */
 }
 
